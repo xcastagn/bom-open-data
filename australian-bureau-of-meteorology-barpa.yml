@@ -21,9 +21,9 @@ Resources:
     Explore: TBC
 DataAtWork:
   Tutorials:
-    - Title: get-to-know-a-dataset-barpa.ipynb
-      URL:
-      NotebookURL:
+    - Title: Get To Know A Dataset BARPA
+      URL: https://github.com/xcastagn/open-data-examples
+      NotebookURL: https://github.com/xcastagn/open-data-examples/blob/master/australian-bureau-of-meteorology-barpa-docs/get-to-know-a-dataset-barpa.ipynb
       AuthorName:
       AuthorURL:
       Services:

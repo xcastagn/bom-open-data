@@ -21,11 +21,11 @@ Resources:
     Explore: TBC
 DataAtWork:
   Tutorials:
-    - Title: get-to-know-a-dataset-barra.ipynb
-      URL:
-      NotebookURL:
-      AuthorName:
-      AuthorURL:
+    - Title: Get To Know A Dataset BARRA
+      URL: https://github.com/xcastagn/open-data-examples
+      NotebookURL: https://github.com/xcastagn/open-data-examples/blob/master/australian-bureau-of-meteorology-barra-docs/get-to-know-a-dataset-barra.ipynb
+      AuthorName: 
+      AuthorURL: 
       Services:
   Tools & Applications:
     - Title:
