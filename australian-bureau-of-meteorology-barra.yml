@@ -15,13 +15,13 @@ License: "[Creative Commons Attribution 4.0 International]() https://creativecom
 Citation:
 Resources:
   - Description:
-    ARN:
-    Region:
-    Type:
-    Explore:
+    ARN: TBC
+    Region: ap-southeast-2
+    Type: S3 Bucket
+    Explore: TBC
 DataAtWork:
   Tutorials:
-    - Title:
+    - Title: get-to-know-a-dataset-barra.ipynb
       URL:
       NotebookURL:
       AuthorName:
